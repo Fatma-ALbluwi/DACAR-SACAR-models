@@ -41,6 +41,7 @@ F. Albluwi, V. Krylov and R. Dahyot Irish Machine Vision and Image Processing co
 ## Some Results
 
 Qualitative evaluation of reconstruction quality using different networks for JPEG quality q = 10.
+![q10](https://user-images.githubusercontent.com/16929158/46288025-5f487200-c57c-11e8-8ab5-92da9f873e9a.jpg)
 
 ##  Note
 This code is based on Keras-2.
