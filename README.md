@@ -49,7 +49,7 @@ Qualitative evaluation of reconstruction quality using different networks for JP
 ## The Quantitative Results
 ![tables](https://user-images.githubusercontent.com/16929158/46288692-7f793080-c57e-11e8-8405-b312b5586a71.jpg)
 
-![table](https://user-images.githubusercontent.com/16929158/46289269-74bf9b00-c580-11e8-90c9-b95c380d3f26.png)
+[ta.pdf](https://github.com/Fatma-ALbluwi/DACAR-SACAR-models/files/2433984/ta.pdf)
 
 
 ##  Note
