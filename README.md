@@ -23,7 +23,7 @@ F. Albluwi, V. Krylov and R. Dahyot Irish Machine Vision and Image Processing co
 ## Dependencies
 
 1. TensorFlow.
-2. Keras.
+2. Keras (this code is based on Keras-2).
 3. Matconvnet.  
 
 ## Generating data
@@ -48,6 +48,3 @@ Qualitative evaluation of reconstruction quality using different networks for JP
 
 ## The Quantitative Results
 ![tables](https://user-images.githubusercontent.com/16929158/46288692-7f793080-c57e-11e8-8405-b312b5586a71.jpg)
-
-##  Note
-This code is based on Keras-2.
