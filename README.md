@@ -1,5 +1,5 @@
-# DACAR-SACAR
-Artifacts reduction in JPEG-Compressed Images using CNNs
+# DACAR-SACAR models
+Artifacts reduction in JPEG-Compressed Images using CNNs.
 
 # DACAR Network/ SACAR Network
 
