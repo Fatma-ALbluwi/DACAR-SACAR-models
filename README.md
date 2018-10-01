@@ -46,5 +46,8 @@ Qualitative evaluation of reconstruction quality using different networks for JP
 
 ![q20](https://user-images.githubusercontent.com/16929158/46288147-bea68200-c57c-11e8-949b-0070e18d25a7.jpg)
 
+## The Quantitative Results
+![tables](https://user-images.githubusercontent.com/16929158/46288692-7f793080-c57e-11e8-8405-b312b5586a71.jpg)
+
 ##  Note
 This code is based on Keras-2.
