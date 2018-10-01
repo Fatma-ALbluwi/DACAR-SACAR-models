@@ -29,7 +29,7 @@ Published in IMVIP e-book of proceedings with ISBN 978-0-9934207-3-3.
 
 ## Generating data
 
-1. reduce the quality of images at different levels (JPEG_Quality = 10 or 20) by using 'Quality' function. 
+1. reduce the quality of images at different levels (JPEG_Quality = 10 or 20) by using 'Quality' function in Matlab. 
 2. The training set is 400 images from the BSDS500 (The Berkeley Segmentation Dataset).
 
 ## Training
