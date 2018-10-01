@@ -38,7 +38,7 @@ F. Albluwi, V. Krylov and R. Dahyot Irish Machine Vision and Image Processing co
 3. convert Keras model to .Mat for testing using Matconvnet: run load_save.py first, then run save_model.m to produce Matconvnet model. 
 4. run DACAR_SACAR_test.m in “test” folder to test the model; Live1 (which contains 29 images) and BSD100 (which contains 100 images) are used as testing data.
 
-## Some Results
+## Some Qualitative Results
 
 Qualitative evaluation of reconstruction quality using different networks for JPEG quality quality = 10 and quality =20.
 
