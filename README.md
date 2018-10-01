@@ -18,7 +18,8 @@ In this work, we consider both types of CNN architectures to reduce the artifact
 These codes are to reduce the different artifacts from JPEG compressed images.
 
 If these codes are helpful for you, please cite this paper: Artifacts reduction in JPEG-Compressed Images using CNNs,
-F. Albluwi, V. Krylov and R. Dahyot Irish Machine Vision and Image Processing conference (IMVIP 2018 <https://www.ulster.ac.uk/conference/imvip-2018>), 2018. Published in IMVIP e-book of proceedings with ISBN 978-0-9934207-3-3. 
+F. Albluwi, V. Krylov and R. Dahyot Irish Machine Vision and Image Processing conference (IMVIP 2018 <https://www.ulster.ac.uk/conference/imvip-2018>), 2018. 
+Published in IMVIP e-book of proceedings with ISBN 978-0-9934207-3-3. 
 
 ## Dependencies
 
