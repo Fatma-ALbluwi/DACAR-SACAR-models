@@ -23,9 +23,11 @@ Published in IMVIP e-book of proceedings with ISBN 978-0-9934207-3-3.
 
 ## Dependencies
 
-1. TensorFlow.
-2. Keras (this code is based on Keras-2).
-3. Matconvnet.  
+1. Python 3.6.5
+2. TensorFlow 1.1.0.
+3. Keras 2.2.2.
+4. Matlab.
+5. Matconvnet.  
 
 ## Generating data
 
